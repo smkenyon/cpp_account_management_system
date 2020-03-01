@@ -1,0 +1,3 @@
+stock purchase	MSFT	120	30.62	3674.4	12/16/2019
+stock purchase	GOOG	2	569.964	1139.93	12/16/2019
+stock sale	MSFT	1	29.62	29.62	12/16/2019
